@@ -30,5 +30,5 @@
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
 
 #### Contact me:
-![Discord](https://img.shields.io/badge/Gmach4118-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 [![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gurstrash@gmail.com)
