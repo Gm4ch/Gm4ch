@@ -1,6 +1,6 @@
 # Hey! I'm Gma4ch
 
-### I'm a student and an aspiring program and like writing programs for myself and for school assigments when I can find the time.
+### I'm a student and a programer and like writing programs for myself and for school assigments when I can find the time.
 #### Hobbies:
 - 3D printing
 - :computer: Building PCs
