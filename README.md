@@ -10,11 +10,11 @@
 
 #### Languages I currently Know:
 ![Python](https://img.shields.io/badge/-Python-ffd480?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&labelColor=black&logoColor=white)
 
 #### Languages and apps I am currently intrested in learning:
 ![C++ Badge](https://img.shields.io/badge/-C++-4da6ff?style=for-the-badge&labelColor=black&logo=c&logoColor=61DBFB)
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&labelColor=black&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
