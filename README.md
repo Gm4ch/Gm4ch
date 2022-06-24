@@ -1,4 +1,4 @@
-# Hey! I'm Gma4ch
+# Hey! I'm Gm4ch
 
 ### I'm a student and a programer and like writing programs for myself and for school assigments when I can find the time.
 #### Hobbies:
